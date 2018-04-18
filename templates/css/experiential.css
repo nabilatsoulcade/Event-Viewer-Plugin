@@ -1,0 +1,48 @@
+.experiental_category{
+  background-color:rgb(255,204,0);
+  background-blend-mode:normal;
+  padding: 4px;
+  margin: 16px 0px;
+  color: rgb(32, 32, 32);
+  font-family:"Open Sans", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:12px;
+}
+.experiental_title{
+	color: rgb(32, 32, 32);
+  font-family: Montserrat;
+  font-weight: 400;
+  font-style: normal;
+  font-size:24px;
+  margin-top:8px;
+  margin-bottom: 1px;
+}
+.experiental_date{
+   margin-bottom: 16px;
+}
+.experiental_event{
+margin-bottom: 36px;
+}
+
+.btn.read-more{
+	background-color: rgb(0, 0, 0);
+	background-blend-mode: normal;
+	color: rgb(255, 204, 0);
+	border-radius: 0px;
+	padding: 6px 24px 4px;
+  font-family: "Open Sans";
+}
+.badge.badge-secondary {
+ text-align: center;
+}
+
+.col-10 {
+ padding-left: 24px;
+}
+
+
+
+.experiental_description {
+ margin-bottom: 26px;
+}

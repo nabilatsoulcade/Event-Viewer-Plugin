@@ -1,0 +1,17 @@
+.card{
+  margin-top: 24px;
+  margin-bottom: 24px;
+  text-decoration-line:none;
+  letter-spacing: 0px;
+  text-transform: none;
+}
+.card-header{
+  padding-top: 10px !important;
+  text-decoration-line:none;
+  letter-spacing: 0px;
+  text-transform: none;
+}
+.card-title{
+  letter-spacing: 0px;
+  text-transform: none;
+}
